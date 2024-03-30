@@ -781,7 +781,7 @@ hr{
 
 
 .Text-format{
-    color:black;
+    color:white;
     font-size:30px;
     font-family:Changa;
     padding: 16px;
@@ -797,7 +797,7 @@ height:200px;
     text-align: justify;
     text-align: center;
     font-size:18px;
-    margin: auto;
+    margin: 10px;
 }
   
 }
